@@ -37,6 +37,9 @@ node_modules/
 # Generated files
 assets/
 
-# Setup Generated files
-dist
+# Setup generated files and test dependencies
+dist/
+build/
+py-*.egg/
+pytest-*.egg/
 *.egg-info
